@@ -34,6 +34,7 @@ const initializeData = async () => {
         edad: 18,
         altura: 165,
         peso: 160,
+        contraseña: 123
       },
       {
         nombres: "Juan",
@@ -45,6 +46,7 @@ const initializeData = async () => {
         edad: 28,
         altura: 180,
         peso: 160,
+        contraseña: 123
       },
     ];
 
