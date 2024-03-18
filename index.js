@@ -4,7 +4,7 @@ const connectDB = require("./config/database");
 const routes = require("./routes");
 
 const app = express();
-const port = 3000;
+const port = 3001;
 
 // Conecta a la base de datos MongoDB
 connectDB();
