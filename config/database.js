@@ -25,28 +25,16 @@ const initializeData = async () => {
 
     const usersData = [
       {
+        userId : 1,
         nombres: "Angelica",
-        apellidos: "Hernandez",
         correo: "angelica@example.com",
-        ciudad: "Medellin",
-        pais: "Colombia",
-        salario: 2800,
-        edad: 18,
-        altura: 165,
-        peso: 160,
-        contraseña: 123
+        contraseña: '123'
       },
       {
+        userId : 2,
         nombres: "Juan",
-        apellidos: "Montoya",
         correo: "juan@example.com",
-        ciudad: "Guadalajara",
-        pais: "Mexico",
-        salario: 3000,
-        edad: 28,
-        altura: 180,
-        peso: 160,
-        contraseña: 123
+        contraseña: '456'
       },
     ];
 
